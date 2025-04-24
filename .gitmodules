@@ -1,0 +1,6 @@
+[submodule "KursTakip"]
+	path = KursTakip
+	url = https://github.com/edaakyil/KursTakip.git
+[submodule "HavaDurumuApp"]
+	path = HavaDurumuApp
+	url = https://github.com/edaakyil/HavaDurumuApp.git
